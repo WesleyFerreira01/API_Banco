@@ -8,3 +8,5 @@
 - efetuar depósito,
 - efetuar transferência,
 -  listar contas ou sair do sistema.
+### Exemplo:
+![banco](https://user-images.githubusercontent.com/79551562/157962381-0531cd58-ca31-45b9-9605-7e6ce7335fce.png)
